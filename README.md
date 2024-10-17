@@ -1,6 +1,6 @@
 # Hi there, I'm Abduvohid! 👋
 
-## Front-End Developer 💻 | AI Enthusiast 🤖
+## Front-End Developer 💻 
 
 ### Technologies I Work With:
 
